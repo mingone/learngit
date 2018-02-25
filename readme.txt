@@ -1,4 +1,5 @@
-git is a distributed version control system.
+g
+t is a distributed version control system.
 git is free software distributed under the GPL.
 hahahah
 i
